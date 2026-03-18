@@ -1,0 +1,10 @@
+---
+title: "ReGAIN: Retrieval-Grounded AI Framework for Network Traffic Analysis"
+collection: publications
+permalink: /files/2026-02-19-ReGAIN-Network-Traffic-Analysis
+excerpt: "Modern networks generate vast, heterogeneous traffic that must be continuously analyzed for security and performance. Traditional network traffic analysis systems, whether rule-based or machine learning-driven, often suffer from high false positives and lack interpretability, limiting analyst trust. In this paper, we present ReGAIN, a multi-stage framework that combines traffic summarization, retrieval-augmented generation (RAG), and Large Language Model (LLM) reasoning for transparent and accurate network traffic analysis. ReGAIN creates natural-language summaries from network traffic, embeds them into a multi-collection vector database, and utilizes a hierarchical retrieval pipeline to ground LLM responses with evidence citations. The pipeline features metadata-based filtering, MMR sampling, a two-stage cross-encoder reranking mechanism, and an abstention mechanism to reduce hallucinations and ensure grounded reasoning. Evaluated on ICMP ping flood and TCP SYN flood traces from the real-world traffic dataset, it demonstrates robust performance, achieving accuracy between 95.95% and 98.82% across different attack types and evaluation benchmarks. These results are validated against two complementary sources: dataset ground truth and human expert assessments. ReGAIN also outperforms rule-based, classical ML, and deep learning baselines while providing unique explainability through trustworthy, verifiable responses."
+date: 2026-02-19
+venue: '2026 International Conference on Computing, Networking and Communications (ICNC)'
+paperurl: 'https://jamesobenson.github.io/files/2026-02-19-ReGAIN-Network-Traffic-Analysis.pdf'
+citation: 'S. Shajarian, K. Marsh, J. Benson, S. Khorsandroo and M. Abdelsalam, "ReGAIN: Retrieval-Grounded AI Framework for Network Traffic Analysis," 2026 International Conference on Computing, Networking and Communications (ICNC), Maui, HI, USA, 2026, pp. 578-584, doi: 10.1109/ICNC68183.2026.11416826.'
+---

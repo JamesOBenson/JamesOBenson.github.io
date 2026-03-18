@@ -27,7 +27,7 @@ Patents
 Work experience
 ======
 * UTSA, Assistant Director for Cloud Security and Privacy Research, 02/2023 - Present
-  * Complete overhaul of infrastructure for CSPECC Phase 2 grant
+  * Complete overhaul of infrastructure for CSPECC Phase 2 grant, saving over $20k in negotiations.
   * Creation and development of software to assist students research
 * UTSA, Technology Research Analyst 2
   * Assisted with Ph.D. research implementation culminating in the graduation of 4 students:
