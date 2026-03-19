@@ -6,5 +6,5 @@ excerpt: "The rapid advancements in networking, communication, automation engine
 date: 2025-04-12
 venue: '2025 11th International Symposium on System Security, Safety, and Reliability (ISSSR)'
 paperurl: 'https://jamesobenson.github.io/files/2025-04-12-ACAD-ABCD-Model-Study.pdf'
-citation: 'T. Mawla, L. Praharaj, J. Benson and M. Gupta, "ACAC_ABCD  Model: Implementation and Comparative Performance Study," 2025 11th International Symposium on System Security, Safety, and Reliability (ISSSR), Guiyang, China, 2025, pp. 291-302, doi: 10.1109/ISSSR65654.2025.00049.'
+citation: 'T. Mawla, L. Praharaj, J. Benson and M. Gupta, "ACAC<sub>ABCD</sub>  Model: Implementation and Comparative Performance Study," 2025 11th International Symposium on System Security, Safety, and Reliability (ISSSR), Guiyang, China, 2025, pp. 291-302, doi: 10.1109/ISSSR65654.2025.00049.'
 ---
